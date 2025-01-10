@@ -20,6 +20,12 @@ This repository specifically details the Multi-head Attention (MHA) mechanism be
 
 ![Multi-head Attention Diagram](assets/featuremap-tau.jpg)
 
+#### Network Architecture
+
+A simplified U-Net structure was used, emphasizing the integration of multi-head attention across feature maps. The goal is to demonstrate how multi-head attention can be effectively applied to each feature map within the network.
+
+![Network Architecture](assets/ldm.jpg)
+
 ---
 
 ## Notebooks
