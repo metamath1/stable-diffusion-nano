@@ -14,6 +14,12 @@ The official implementations of the above papers are often too complex for begin
 
 For those interested in deeper theoretical insights, refer to [A Gentle Introduction to Diffusion Model: Part 1 - DDPM](https://metamath1.github.io/blog/posts/diffusion/ddpm_part1.html).
 
+#### Multi-head Attention
+
+This repository specifically details the Multi-head Attention (MHA) mechanism between latent feature maps and condition embeddings with diagrams. We believe this will be particularly helpful for those who may find MHA difficult to understand.
+
+![Multi-head Attention Diagram](assets/featuremap-tau.jpg)
+
 ---
 
 ## Notebooks
@@ -40,14 +46,6 @@ This repository includes the following notebooks:
 |------------------------------------------------------------------|
 | ![Concatenate](assets/LDM_CONCAT_VAE_4/ani_CONCAT_w5.gif)        |
 | ![Multi-head Attention](assets/LDM_QKV_VAE_4/ani_QKV_w5.gif)     |
-
----
-
-## Multi-head Attention
-
-This repository specifically details the Multi-head Attention (MHA) mechanism between latent feature maps and condition embeddings with diagrams. We believe this will be particularly helpful for those who may find MHA difficult to understand.
-
-![Multi-head Attention Diagram](assets/featuremap-tau.png)
 
 ---
 
