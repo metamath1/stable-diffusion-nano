@@ -36,9 +36,11 @@ This repository includes the following notebooks:
 
 ## Visual Representations
 
-| **Concatenate**                                   | **Multi Head Attention**                                     |
-|-----------------------------------------------------------|----------------------------------------------------------|
-| ![CONCAT VAE](assets/LDM_CONCAT_VAE_4/ani_CONCAT_w5.gif)  | ![QKV VAE](assets/LDM_QKV_VAE_4/ani_QKV_w5.gif)         |
+| Animation                                                       |
+|------------------------------------------------------------------|
+| ![Concatenate](assets/LDM_CONCAT_VAE_4/ani_CONCAT_w5.gif)        |
+| ![Multi-head Attention](assets/LDM_QKV_VAE_4/ani_QKV_w5.gif)                |
+
 
 ---
 
