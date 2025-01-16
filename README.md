@@ -103,8 +103,14 @@ Contributions are welcome! If you find any issues or want to add new features, f
 
 ---
 
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for details.
+## 📜 License
+
+This project is licensed under the **Non-Commercial Use Only License**. 
+
+### ⚠️ Restrictions
+- **Non-Commercial Use Only**: This software is provided for **personal, educational, and non-commercial purposes only**.
+- **Commercial Use Prohibited**: Commercial use of this software is strictly prohibited without prior written consent from the copyright holder.
+- For inquiries about commercial licensing, please contact **metamath@gmail.com**.
 
 ---
 
